@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![gif](https://raw.githubusercontent.com/H3r4cles/H3r4cles/main/fun.gif)
 <!--
 **H3r4cles/H3r4cles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
